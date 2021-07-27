@@ -1,3 +1,4 @@
+#!/bin/bash
 echo -n "Press any key: "
 read DATA
 echo ""
